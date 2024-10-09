@@ -1,0 +1,27 @@
+{
+    "workspace.library": [
+        "/home/myo/.config/nvim",
+        "/home/myo/.local/share/nvim/lazy/lazy.nvim",
+        "/home/myo/.local/share/nvim/lazy/friendly-snippets",
+        "/home/myo/.local/share/nvim/lazy/LuaSnip",
+        "/home/myo/.local/share/nvim/lazy/lspkind.nvim",
+        "/home/myo/.local/share/nvim/lazy/cmp_luasnip",
+        "/home/myo/.local/share/nvim/lazy/cmp-nvim-lua",
+        "/home/myo/.local/share/nvim/lazy/cmp-nvim-lsp",
+        "/home/myo/.local/share/nvim/lazy/nvim-cmp",
+        "/home/myo/.local/share/nvim/lazy/mason-lspconfig.nvim",
+        "/home/myo/.local/share/nvim/lazy/mason.nvim",
+        "/home/myo/.local/share/nvim/lazy/nvim-lspconfig",
+        "/home/myo/.local/share/nvim/lazy/kanagawa.nvim",
+        "/usr/share/nvim/runtime",
+        "/usr/lib/nvim",
+        "/home/myo/.local/state/nvim/lazy/readme",
+        "/home/myo/.local/share/nvim/lazy/cmp_luasnip/after",
+        "/home/myo/.local/share/nvim/lazy/cmp-nvim-lua/after",
+        "/home/myo/.local/share/nvim/lazy/cmp-nvim-lsp/after",
+        "${3rd}/luassert/library"
+    ],
+    "diagnostics.globals": [
+        "vim"
+    ]
+}

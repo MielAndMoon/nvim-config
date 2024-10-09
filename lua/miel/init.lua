@@ -1,0 +1,5 @@
+require("miel.options")
+require("miel.lazy")
+require("miel.autocmds")
+require("miel.maps")
+require("miel.diagnostic")
